@@ -1,3 +1,10 @@
-# Certificates
-2023: PNPT, PJPT
-2024: OSCP - In progress
+# Curent Certificates
+
+**2024:**
+- [] OSCP
+- [] CRTO
+- [] CRTE
+  
+**2023:** 
+- [x] PNPT
+- [x] PJPT
